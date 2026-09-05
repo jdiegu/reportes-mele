@@ -8,7 +8,7 @@
     <div class="card overflow-hidden">
       <div class="p-6 sm:p-8 text-center" style="background: linear-gradient(135deg, var(--rose-lighter), var(--rose-light));">
         <div class="w-14 h-14 rounded-2xl flex items-center justify-center mx-auto mb-4"
-             style="background: var(--rose-gradient); box-shadow: 0 4px 16px rgba(196,90,122,0.3);">
+             style="background: var(--rose-gradient); box-shadow: 0 4px 16px rgba(224,36,121,0.45);">
           <DollarSign class="w-7 h-7 text-white" />
         </div>
         <p class="text-xs font-semibold uppercase tracking-wider mb-2" style="color: var(--text-muted);">Saldo disponible</p>

@@ -29,7 +29,7 @@
     <div v-else class="space-y-3">
       <div v-for="p in platforms" :key="p._id"
            class="card p-4 flex items-center gap-3 transition-colors"
-           @mouseenter="e => e.currentTarget.style.borderColor = 'rgba(196,90,122,0.2)'"
+           @mouseenter="e => e.currentTarget.style.borderColor = 'rgba(224,36,121,0.2)'"
            @mouseleave="e => e.currentTarget.style.borderColor = 'var(--border-color)'">
         <div class="w-10 h-10 rounded-xl flex items-center justify-center shrink-0"
              :style="{ background: getPlatformColor(p.name) + '18', border: '1px solid ' + getPlatformColor(p.name) + '30' }">
@@ -97,7 +97,7 @@
                             @click="selectIcon(iconId)"
                             class="aspect-square rounded-lg flex items-center justify-center transition-all border-2"
                             :style="modalForm.icon_id === iconId
-                              ? { borderColor: 'var(--rose-primary)', background: 'rgba(196,90,122,0.1)' }
+                              ? { borderColor: 'var(--rose-primary)', background: 'rgba(224,36,121,0.15)' }
                               : { borderColor: 'transparent', background: 'var(--bg-card)' }"
                             :title="iconId">
                       <Icon :icon="iconId" class="w-5 h-5" style="color: var(--text-secondary);" />
@@ -113,7 +113,7 @@
                             @click="selectIcon(iconId)"
                             class="aspect-square rounded-lg flex items-center justify-center transition-all border-2"
                             :style="modalForm.icon_id === iconId
-                              ? { borderColor: 'var(--rose-primary)', background: 'rgba(196,90,122,0.1)' }
+                              ? { borderColor: 'var(--rose-primary)', background: 'rgba(224,36,121,0.15)' }
                               : { borderColor: 'transparent', background: 'var(--bg-card)' }"
                             :title="iconId">
                       <Icon :icon="iconId" class="w-5 h-5" style="color: var(--text-secondary);" />
@@ -129,7 +129,7 @@
                             @click="selectIcon(item.iconId)"
                             class="aspect-square rounded-lg flex items-center justify-center transition-all border-2"
                             :style="modalForm.icon_id === item.iconId
-                              ? { borderColor: 'var(--rose-primary)', background: 'rgba(196,90,122,0.1)' }
+                              ? { borderColor: 'var(--rose-primary)', background: 'rgba(224,36,121,0.15)' }
                               : { borderColor: 'transparent', background: 'var(--bg-card)' }"
                             :title="item.key">
                       <Icon :icon="item.iconId" class="w-5 h-5" :style="{ color: item.color }" />

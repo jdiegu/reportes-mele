@@ -136,12 +136,12 @@ const accentColor = computed(() => ({
 }[props.report.status] || 'var(--warning)'))
 
 const typeBg = computed(() => props.report.platform_type === 'profile'
-  ? 'rgba(139,92,246,0.1)' : 'rgba(196,90,122,0.1)')
+  ? 'rgba(139,92,246,0.1)' : 'rgba(224,36,121,0.15)')
 const typeColor = computed(() => props.report.platform_type === 'profile'
   ? '#8b5cf6' : 'var(--rose-primary)')
 
 const rowStyle = computed(() => ({
-  borderColor: hover.value ? 'rgba(196,90,122,0.15)' : 'var(--border-color)',
+  borderColor: hover.value ? 'rgba(224,36,121,0.2)' : 'var(--border-color)',
   background: hover.value ? 'var(--bg-surface)' : 'var(--bg-card)',
   boxShadow: hover.value ? '0 2px 8px rgba(0,0,0,0.04)' : 'none',
 }))
@@ -149,7 +149,7 @@ const rowStyle = computed(() => ({
 const iconStyle = computed(() => ({
   background: hover.value ? 'var(--rose-gradient)' : 'var(--rose-lighter)',
   color: hover.value ? 'white' : 'var(--rose-primary)',
-  boxShadow: hover.value ? '0 4px 12px rgba(196,90,122,0.3)' : 'none',
+  boxShadow: hover.value ? '0 4px 12px rgba(224,36,121,0.45)' : 'none',
 }))
 
 const relativeDate = computed(() => {

@@ -1,7 +1,7 @@
 export const STORAGE_KEYS = {
-  TOKEN: 'lunali_token',
-  USER: 'lunali_user',
-  THEME: 'lunali_theme',
+  TOKEN: 'lunarosa_token',
+  USER: 'lunarosa_user',
+  THEME: 'lunarosa_theme',
 }
 
 export const LOCALE = import.meta.env.VITE_APP_LOCALE || 'es-MX'

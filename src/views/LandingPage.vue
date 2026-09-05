@@ -9,7 +9,7 @@
                 <path stroke-linecap="round" stroke-linejoin="round" d="M7 4v16M17 4v16M3 8h4m10 0h4M3 12h18M3 16h4m10 0h4M4 20h16a1 1 0 001-1V5a1 1 0 00-1-1H4a1 1 0 00-1 1v14a1 1 0 001 1z"/>
               </svg>
             </div>
-            <span class="font-display text-lg sm:text-xl font-bold" style="color: var(--text-primary);">Lunali</span>
+            <span class="font-display text-lg sm:text-xl font-bold" style="color: var(--text-primary);">Ventas Luna Rosa</span>
           </RouterLink>
 
           <nav class="hidden md:flex items-center gap-8">
@@ -173,10 +173,10 @@
                 <path stroke-linecap="round" stroke-linejoin="round" d="M7 4v16M17 4v16M3 8h4m10 0h4M3 12h18M3 16h4m10 0h4M4 20h16a1 1 0 001-1V5a1 1 0 00-1-1H4a1 1 0 00-1 1v14a1 1 0 001 1z"/>
               </svg>
             </div>
-            <span class="font-display font-bold text-sm" style="color: var(--text-primary);">Lunali</span>
+            <span class="font-display font-bold text-sm" style="color: var(--text-primary);">Luna Rosa</span>
           </div>
           <p class="text-xs" style="color: var(--text-muted);">
-            &copy; {{ new Date().getFullYear() }} Lunali Streaming. Todos los derechos reservados.
+            &copy; {{ new Date().getFullYear() }} Ventas Luna Rosa. Todos los derechos reservados.
           </p>
           <div class="flex items-center gap-4">
             <a href="#" class="text-xs no-underline transition-colors" style="color: var(--text-muted);">Términos</a>

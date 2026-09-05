@@ -48,7 +48,7 @@
                   @click="selectType(opt)"
                   class="rounded-xl border px-2.5 sm:px-3 py-3 text-sm font-medium transition-all duration-200 text-center"
                   :style="selectedType === opt.value
-                    ? { background: 'var(--rose-gradient)', borderColor: 'var(--rose-primary)', color: 'white', boxShadow: '0 2px 12px rgba(196,90,122,0.3)' }
+                    ? { background: 'var(--rose-gradient)', borderColor: 'var(--rose-primary)', color: 'white', boxShadow: '0 2px 12px rgba(224,36,121,0.45)' }
                     : { background: 'var(--bg-surface)', borderColor: 'var(--border-color)', color: 'var(--text-secondary)' }"
                 >
                   <div class="w-8 h-8 rounded-lg flex items-center justify-center mx-auto mb-1"

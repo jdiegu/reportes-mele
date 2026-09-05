@@ -15,7 +15,7 @@ const props = defineProps({
 const theme = useApexTheme();
 
 const PALETTE = [
-  "#e88aac",
+  "#FF6BA9",
   "#60a0d0",
   "#3cb870",
   "#e8b030",

@@ -57,8 +57,8 @@ function confirm() { emit('confirm') }
 function cancel() { emit('cancel') }
 
 const barStyle = computed(() => {
-  if (props.type === 'danger') return { background: 'linear-gradient(90deg, var(--error), #d46a8a)' }
-  if (props.type === 'warning') return { background: 'linear-gradient(90deg, var(--warning), #e88aac)' }
+  if (props.type === 'danger') return { background: 'linear-gradient(90deg, var(--error), #FF6BA9)' }
+  if (props.type === 'warning') return { background: 'linear-gradient(90deg, var(--warning), #FFC2D7)' }
   return { background: 'var(--rose-gradient)' }
 })
 
@@ -127,7 +127,7 @@ const confirmBtnClass = computed(() => {
   color: white;
 }
 .btn-confirm-primary:not(:disabled):hover {
-  box-shadow: 0 6px 20px rgba(196, 90, 122, 0.35);
+  box-shadow: 0 6px 20px rgba(224, 36, 121, 0.45);
 }
 
 .btn-confirm-danger {

@@ -13,9 +13,9 @@
         <div class="flex items-center justify-between h-14 sm:h-16">
           <div class="flex items-center gap-2.5">
             <div class="w-8 h-8 sm:w-9 sm:h-9 rounded-full overflow-hidden shrink-0 ring-2 header-logo-ring">
-              <img src="/icon.png" alt="Lunali" class="w-full h-full object-cover" />
+              <img src="/icon.png" alt="Ventas Luna Rosa" class="w-full h-full object-cover" />
             </div>
-            <span class="font-display text-lg sm:text-xl font-bold" style="color: var(--text-primary);">Lunali</span>
+            <span class="font-display text-lg sm:text-xl font-bold" style="color: var(--text-primary);">Ventas Luna Rosa</span>
           </div>
           <div class="flex items-center gap-2">
             <button @click="toggleTheme" class="icon-btn" :title="isDark ? 'Modo claro' : 'Modo oscuro'">
@@ -49,7 +49,7 @@
           <div class="logo-container mx-auto my-6 sm:my-7">
             <div class="logo-ring">
               <div class="logo-inner">
-                <img src="/icon.png" alt="Lunali" class="logo-img" />
+                <img src="/icon.png" alt="Ventas Luna Rosa" class="logo-img" />
               </div>
             </div>
             <div class="logo-glow"></div>
@@ -106,8 +106,8 @@
       <div class="max-w-5xl mx-auto px-5 py-3.5 sm:py-4">
         <div class="flex flex-wrap items-center justify-center gap-x-3 gap-y-2">
           <div class="flex items-center gap-2">
-            <img src="/icon.png" alt="Lunali" class="w-5 h-5 rounded object-cover" style="border-radius: 0.25rem" />
-            <span class="text-[13px] font-bold tracking-tight footer-brand">Lunali Studio</span>
+            <img src="/icon.png" alt="Ventas Luna Rosa" class="w-5 h-5 rounded object-cover" style="border-radius: 0.25rem" />
+            <span class="text-[13px] font-bold tracking-tight footer-brand">Ventas Luna Rosa</span>
           </div>
           <div class="w-px h-4" :style="{ background: 'var(--border-color)' }"></div>
           <span class="text-xs footer-dot">Sistema de reportes</span>
@@ -257,8 +257,8 @@ onMounted(async () => {
   gap: 0.5rem;
   padding: 0.375rem 0.875rem;
   border-radius: 9999px;
-  border: 1px solid rgba(196, 90, 122, 0.14);
-  background: rgba(196, 90, 122, 0.05);
+  border: 1px solid rgba(224, 36, 121, 0.14);
+  background: rgba(224, 36, 121, 0.05);
 }
 .status-badge .status-dot {
   width: 8px;
@@ -300,7 +300,7 @@ onMounted(async () => {
   height: 100%;
   border-radius: 50%;
   padding: 3px;
-  background: linear-gradient(135deg, #e88aac, #d46a8a, #b84a6a);
+  background: linear-gradient(135deg, #FFC2D7, #FF6BA9, #E02479);
   position: relative;
   z-index: 1;
 }
@@ -325,14 +325,14 @@ onMounted(async () => {
   position: absolute;
   inset: -12px;
   border-radius: 50%;
-  background: radial-gradient(circle, rgba(196, 90, 122, 0.15) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(224, 36, 121, 0.15) 0%, transparent 70%);
   z-index: 0;
 }
 .logo-ring-outer {
   position: absolute;
   inset: -6px;
   border-radius: 50%;
-  border: 1px solid rgba(196, 90, 122, 0.1);
+  border: 1px solid rgba(224, 36, 121, 0.1);
 }
 
 .unavailable-title {
@@ -341,7 +341,7 @@ onMounted(async () => {
   line-height: 1.2;
 }
 .gradient-text {
-  background: linear-gradient(135deg, var(--rose-primary), #d46a8a, #e88aac);
+  background: linear-gradient(135deg, var(--rose-primary), #FF6BA9, #FFC2D7);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -361,8 +361,8 @@ onMounted(async () => {
   gap: 0.875rem;
   padding: 1rem 1.25rem;
   border-radius: 0.875rem;
-  border: 1px solid rgba(196, 90, 122, 0.14);
-  background: rgba(196, 90, 122, 0.04);
+  border: 1px solid rgba(224, 36, 121, 0.14);
+  background: rgba(224, 36, 121, 0.04);
 }
 .reason-icon {
   width: 2.25rem;
@@ -372,7 +372,7 @@ onMounted(async () => {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-  background: rgba(196, 90, 122, 0.09);
+  background: rgba(224, 36, 121, 0.09);
   color: var(--rose-primary);
 }
 .reason-label {
@@ -416,11 +416,11 @@ onMounted(async () => {
   cursor: pointer;
   text-decoration: none;
   transition: all 0.3s ease;
-  box-shadow: 0 6px 20px rgba(196, 90, 122, 0.3);
+  box-shadow: 0 6px 20px rgba(224, 36, 121, 0.3);
 }
 .group-cta:hover {
   transform: translateY(-1px);
-  box-shadow: 0 8px 26px rgba(196, 90, 122, 0.4);
+  box-shadow: 0 8px 26px rgba(224, 36, 121, 0.4);
 }
 .group-cta:active {
   transform: translateY(0);

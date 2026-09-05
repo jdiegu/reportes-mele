@@ -40,7 +40,7 @@
           @mouseleave="e => e.currentTarget.style.background = 'transparent'">
           <div class="w-9 h-9 sm:w-10 sm:h-10 rounded-xl flex items-center justify-center text-xs sm:text-sm font-bold shrink-0"
                :style="{
-                 background: u.role === 'boss' ? 'var(--rose-gradient)' : u.role === 'admin' ? 'rgba(196,90,122,0.1)' : 'var(--bg-surface)',
+                 background: u.role === 'boss' ? 'var(--rose-gradient)' : u.role === 'admin' ? 'rgba(224,36,121,0.15)' : 'var(--bg-surface)',
                  color: u.role === 'boss' ? 'white' : u.role === 'admin' ? 'var(--rose-primary)' : 'var(--text-muted)',
                }">
             {{ (u.username || '?').charAt(0).toUpperCase() }}

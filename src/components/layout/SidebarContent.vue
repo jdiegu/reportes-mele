@@ -4,12 +4,12 @@
       <div class="sidebar-logo min-w-[2.5rem]">
         <div class="sidebar-logo-ring">
           <div class="sidebar-logo-inner">
-            <img src="/icon.png" alt="Lunali" class="sidebar-logo-img" />
+            <img src="/icon.png" alt="Ventas Luna Rosa" class="sidebar-logo-img" />
           </div>
         </div>
       </div>
       <Transition name="fade-text">
-        <span v-show="expanded" class="font-display font-semibold text-lg whitespace-nowrap" style="color: var(--text-primary);">Lunali</span>
+        <span v-show="expanded" class="font-display font-semibold text-lg whitespace-nowrap" style="color: var(--text-primary);">Ventas Luna Rosa</span>
       </Transition>
     </div>
 
@@ -72,7 +72,7 @@ defineEmits(['toggleTheme', 'logout'])
   width: 100%; height: 100%;
   border-radius: 50%;
   padding: 2px;
-  background: linear-gradient(135deg, #e88aac, #d46a8a, #b84a6a);
+  background: linear-gradient(135deg, #FFC2D7, #FF6BA9, #E02479);
 }
 .sidebar-logo-inner {
   width: 100%; height: 100%;

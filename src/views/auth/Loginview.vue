@@ -11,399 +11,13 @@
 
     <!-- Formas flotantes -->
     <div class="floating-shapes pointer-events-none" aria-hidden="true">
-      <div class="shape s1">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s2">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s3">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s4">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s5">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s6">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s7">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s8">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s9">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s10">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s11">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s12">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s13">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s14">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s15">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s16">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s17">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s18">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s19">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s20">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s21">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s22">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s23">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s24">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s25">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s26">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s27">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s28">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s29">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s30">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s31">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s32">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s33">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s34">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s35">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s36">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s37">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s38">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s39">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s40">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s41">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s42">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s43">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s44">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s45">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s46">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s47">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-      <div class="shape s48">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-          />
-        </svg>
-      </div>
-
-      <div class="shape h1">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
-          />
-        </svg>
-      </div>
-      <div class="shape h2">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
-          />
-        </svg>
-      </div>
-      <div class="shape h3">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
-          />
-        </svg>
-      </div>
-      <div class="shape h4">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
-          />
-        </svg>
-      </div>
-      <div class="shape h5">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
-          />
-        </svg>
-      </div>
-      <div class="shape h6">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
-          />
-        </svg>
-      </div>
-      <div class="shape h7">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
-          />
-        </svg>
-      </div>
-      <div class="shape h8">
-        <svg viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
-          />
-        </svg>
-      </div>
+      <div
+        v-for="shape in floatingShapes"
+        :key="shape.id"
+        class="shape"
+        :style="shape.style"
+        v-html="shape.svg"
+      ></div>
     </div>
 
     <div class="grid-dots pointer-events-none" aria-hidden="true"></div>
@@ -422,7 +36,7 @@
             >
               <div class="logo-ring">
                 <div class="logo-inner">
-                  <img src="/icon.png" alt="Lunali" class="logo-img" />
+                  <img src="/icon.png" alt="Ventas Luna Rosa" class="logo-img" />
                 </div>
               </div>
 
@@ -430,7 +44,7 @@
             </a>
           </div>
 
-          <h1 class="login-title text-3xl sm:text-4xl mb-1">Lunali</h1>
+          <h1 class="login-title text-3xl sm:text-4xl mb-1">Ventas Luna Rosa</h1>
 
           <p class="text-sm sm:text-base login-subtitle">Sistema de reportes</p>
         </div>
@@ -845,12 +459,12 @@
           <div class="flex items-center gap-2.5">
             <img
               src="/icon.png"
-              alt="Lunali"
+              alt="Ventas Luna Rosa"
               class="w-7 h-7 rounded-lg object-cover shadow-sm"
               style="border-radius: 0.5rem"
             />
             <span class="text-[15px] font-bold tracking-tight" style="color: var(--text-primary)">
-              Lunali Studio
+              Ventas Luna Rosa
             </span>
           </div>
 
@@ -862,7 +476,7 @@
             style="
               background: var(--rose-gradient);
               color: white;
-              box-shadow: 0 4px 14px rgba(196, 90, 122, 0.3);
+              box-shadow: 0 4px 14px rgba(224, 36, 121, 0.3);
             "
           >
             <svg class="w-3.5 h-3.5 transition-transform group-hover:rotate-6" viewBox="0 0 24 24" fill="currentColor">
@@ -876,7 +490,7 @@
         <div class="flex items-center gap-3 my-4">
           <div class="flex-1 h-px" :style="{ background: 'var(--border-color)' }"></div>
           <svg class="w-2.5 h-2.5" viewBox="0 0 24 24" fill="none" :style="{ color: 'var(--rose-primary)', opacity: 0.7 }">
-            <path d="M12 2l2.4 7.2L22 12l-7.6 2.8L12 22l-2.4-7.2L2 12l7.6-2.8L12 2z" fill="currentColor" />
+            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z" fill="currentColor" />
           </svg>
           <div class="flex-1 h-px" :style="{ background: 'var(--border-color)' }"></div>
         </div>
@@ -933,6 +547,65 @@ const { isDark, toggleTheme } = useTheme();
 
 const whatsappGroupLink = computed(() => WHATSAPP_GROUP || "#");
 const whatsappPhone = WHATSAPP_PHONE;
+
+const FEMININE_ICONS = {
+  popcorn:
+    `<svg viewBox="0 0 24 24" fill="currentColor"><circle cx="8.1" cy="9.4" r="3.1"/><circle cx="15.9" cy="9.4" r="3.1"/><circle cx="12" cy="5.6" r="3.2"/><circle cx="10" cy="9.8" r="2.4"/><circle cx="14" cy="9.8" r="2.4"/><path d="M5.4 12.6h13.2l-.6 2.6H6l-.6-2.6z"/><path d="M6.8 15.2h10.4l-1 4.6c-.2 1-.9 1.7-1.9 1.7H9.7c-1 0-1.7-.7-1.9-1.7l-1-4.6z"/></svg>`,
+  play:
+    `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"/></svg>`,
+  camera:
+    `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M17 10.5V7c0-.55-.45-1-1-1H4c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1v-3.5l4 4v-11l-4 4z"/></svg>`,
+  music:
+    `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/></svg>`,
+  mic:
+    `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 14c1.66 0 2.99-1.34 2.99-3L15 5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3zm5.3-3c0 3-2.54 5.1-5.3 5.1S6.7 14 6.7 11H5c0 3.41 2.72 6.23 6 6.72V21h2v-3.28c3.28-.48 6-3.3 6-6.72h-1.7z"/></svg>`,
+  movie:
+    `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M18 4l2 4h-3l-2-4h-2l2 4h-3l-2-4H8l2 4H7L5 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V4h-4z"/></svg>`,
+  bag:
+    `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M18 6h-2c0-2.21-1.79-4-4-4S8 3.79 8 6H6c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-6-2c1.1 0 2 .9 2 2h-4c0-1.1.9-2 2-2z"/></svg>`,
+  drink:
+    `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M21 5V3H3v2l8 9v5H6v2h12v-2h-5v-5l8-9zM7.43 7L5.66 5h12.69l-1.78 2H7.43z"/></svg>`,
+  flower:
+    `<svg viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="6" r="3.1"/><circle cx="17.3" cy="9.6" r="3.1"/><circle cx="14.7" cy="15.9" r="3.1"/><circle cx="9.3" cy="15.9" r="3.1"/><circle cx="6.7" cy="9.6" r="3.1"/><circle cx="12" cy="12" r="2.8"/></svg>`,
+  crown:
+    `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M4 17.5h16v2.5H4zM5.8 16L4 6.2l5 4.4L12 5.5l3 5.1 5-4.4L18.2 16H5.8z"/></svg>`,
+  dress:
+    `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2c1.1 0 2.1.6 2.7 1.5l3.1 4.4 1.9 1.3-.7 8.3c-.1 1.1-1 1.9-2.1 1.9H7.5c-1.1 0-2-.8-2.1-1.9l-.7-8.3 1.9-1.3 2.9-4.4C9.9 2.6 10.9 2 12 2z"/></svg>`,
+  headset:
+    `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 1a9 9 0 00-9 9v7c0 1.66 1.34 3 3 3h3v-8H5v-2c0-3.87 3.13-7 7-7s7 3.13 7 7v2h-4v8h3c1.66 0 3-1.34 3-3v-7a9 9 0 00-9-9z"/></svg>`,
+};
+
+const SHAPE_SPOTS = [
+  [2, 3, 28], [5, 22, 12], [1, 45, 34], [4, 68, 10], [8, 88, 18], [12, 12, 8],
+  [14, 38, 30], [10, 58, 14], [17, 78, 22], [20, 95, 40], [25, 6, 16], [30, 28, 36],
+  [24, 50, 6], [35, 72, 26], [28, 85, 11], [40, 15, 32], [44, 40, 9], [48, 60, 24],
+  [42, 80, 13], [52, 4, 38], [55, 35, 7], [58, 55, 20], [50, 75, 15], [62, 92, 42],
+  [65, 10, 10], [68, 30, 28], [60, 48, 5], [72, 65, 17], [78, 82, 33], [75, 18, 12],
+  [82, 42, 44], [85, 55, 8], [80, 70, 21], [88, 8, 14], [92, 30, 30], [86, 48, 6],
+  [95, 60, 25], [90, 75, 11], [96, 88, 36], [7, 75, 9], [22, 46, 19], [37, 90, 7],
+  [46, 24, 23], [56, 42, 13], [70, 52, 31], [77, 38, 10], [84, 22, 16], [93, 50, 27],
+  [9, 40, 24], [18, 68, 16], [33, 8, 30], [44, 88, 14], [58, 33, 20], [70, 62, 26], [82, 25, 12], [90, 75, 18],
+];
+
+const PINK_TONES = ["#9E0E54", "#C01466", "#E02479", "#F63F8D", "#FF6BA9"];
+const ICON_KEYS = Object.keys(FEMININE_ICONS);
+
+const floatingShapes = SHAPE_SPOTS.map(([top, left, size], i) => {
+  const palette = PINK_TONES[(i + Math.floor(i / 12)) % PINK_TONES.length];
+  return {
+    id: i,
+    svg: FEMININE_ICONS[ICON_KEYS[i % ICON_KEYS.length]],
+    style: {
+      width: `${size}px`,
+      height: `${size}px`,
+      top: `${top}%`,
+      left: `${left}%`,
+      color: palette,
+      opacity: 0.06 + (i % 5) * 0.02,
+      animation: `float-drift ${14 + (i % 8)}s ease-in-out ${(i % 9) * 0.7}s infinite`,
+    },
+  };
+});
 
 const activeTab = ref(route.query.register === "true" ? "register" : "login");
 
@@ -1037,8 +710,8 @@ async function handleRegister() {
   height: 300px;
   top: 30%;
   left: 20%;
-  background: var(--info);
-  opacity: 0.04;
+  background: #ff6ba9;
+  opacity: 0.05;
   animation: orb-drift 15s ease-in-out infinite alternate;
 }
 
@@ -1047,7 +720,7 @@ async function handleRegister() {
   height: 200px;
   bottom: 20%;
   right: 15%;
-  background: var(--success);
+  background: #e02479;
   opacity: 0.03;
   animation: orb-drift 20s ease-in-out infinite alternate-reverse;
 }
@@ -1075,535 +748,25 @@ async function handleRegister() {
   height: 100%;
 }
 
-.s1 {
-  width: 28px;
-  height: 28px;
-  top: 2%;
-  left: 3%;
-  animation: star-drift 16s ease-in-out infinite;
-  opacity: 0.1;
-  color: var(--rose-primary);
-}
-.s2 {
-  width: 12px;
-  height: 12px;
-  top: 5%;
-  left: 22%;
-  animation: star-drift 20s ease-in-out infinite 2s;
-  opacity: 0.06;
-  color: var(--warning);
-}
-.s3 {
-  width: 34px;
-  height: 34px;
-  top: 1%;
-  left: 45%;
-  animation: star-drift 22s ease-in-out infinite 4s;
-  opacity: 0.12;
-  color: var(--rose-primary);
-}
-.s4 {
-  width: 10px;
-  height: 10px;
-  top: 4%;
-  left: 68%;
-  animation: star-drift 18s ease-in-out infinite 1s;
-  opacity: 0.05;
-  color: var(--info);
-}
-.s5 {
-  width: 18px;
-  height: 18px;
-  top: 8%;
-  left: 88%;
-  animation: star-drift 24s ease-in-out infinite 3s;
-  opacity: 0.08;
-  color: var(--success);
-}
-.s6 {
-  width: 8px;
-  height: 8px;
-  top: 12%;
-  left: 12%;
-  animation: star-drift 15s ease-in-out infinite 5s;
-  opacity: 0.04;
-  color: var(--rose-primary);
-}
-.s7 {
-  width: 30px;
-  height: 30px;
-  top: 14%;
-  left: 38%;
-  animation: star-drift 19s ease-in-out infinite 2s;
-  opacity: 0.11;
-  color: var(--warning);
-}
-.s8 {
-  width: 14px;
-  height: 14px;
-  top: 10%;
-  left: 58%;
-  animation: star-drift 21s ease-in-out infinite 6s;
-  opacity: 0.07;
-  color: var(--rose-primary);
-}
-.s9 {
-  width: 22px;
-  height: 22px;
-  top: 17%;
-  left: 78%;
-  animation: star-drift 17s ease-in-out infinite 1s;
-  opacity: 0.09;
-  color: var(--success);
-}
-.s10 {
-  width: 40px;
-  height: 40px;
-  top: 20%;
-  left: 95%;
-  animation: star-drift 23s ease-in-out infinite 4s;
-  opacity: 0.13;
-  color: var(--info);
-}
-.s11 {
-  width: 16px;
-  height: 16px;
-  top: 25%;
-  left: 6%;
-  animation: star-drift 14s ease-in-out infinite 3s;
-  opacity: 0.06;
-  color: var(--rose-primary);
-}
-.s12 {
-  width: 36px;
-  height: 36px;
-  top: 30%;
-  left: 28%;
-  animation: star-drift 25s ease-in-out infinite 5s;
-  opacity: 0.12;
-  color: var(--warning);
-}
-.s13 {
-  width: 6px;
-  height: 6px;
-  top: 24%;
-  left: 50%;
-  animation: star-drift 18s ease-in-out infinite 2s;
-  opacity: 0.03;
-  color: var(--rose-primary);
-}
-.s14 {
-  width: 26px;
-  height: 26px;
-  top: 35%;
-  left: 72%;
-  animation: star-drift 16s ease-in-out infinite 7s;
-  opacity: 0.1;
-  color: var(--success);
-}
-.s15 {
-  width: 11px;
-  height: 11px;
-  top: 28%;
-  left: 85%;
-  animation: star-drift 22s ease-in-out infinite 1s;
-  opacity: 0.05;
-  color: var(--info);
-}
-.s16 {
-  width: 32px;
-  height: 32px;
-  top: 40%;
-  left: 15%;
-  animation: star-drift 20s ease-in-out infinite 4s;
-  opacity: 0.11;
-  color: var(--rose-primary);
-}
-.s17 {
-  width: 9px;
-  height: 9px;
-  top: 44%;
-  left: 40%;
-  animation: star-drift 19s ease-in-out infinite 6s;
-  opacity: 0.04;
-  color: var(--warning);
-}
-.s18 {
-  width: 24px;
-  height: 24px;
-  top: 48%;
-  left: 60%;
-  animation: star-drift 15s ease-in-out infinite 3s;
-  opacity: 0.09;
-  color: var(--success);
-}
-.s19 {
-  width: 13px;
-  height: 13px;
-  top: 42%;
-  left: 80%;
-  animation: star-drift 24s ease-in-out infinite 5s;
-  opacity: 0.06;
-  color: var(--rose-primary);
-}
-.s20 {
-  width: 38px;
-  height: 38px;
-  top: 52%;
-  left: 4%;
-  animation: star-drift 17s ease-in-out infinite 2s;
-  opacity: 0.13;
-  color: var(--info);
-}
-.s21 {
-  width: 7px;
-  height: 7px;
-  top: 55%;
-  left: 35%;
-  animation: star-drift 21s ease-in-out infinite 4s;
-  opacity: 0.03;
-  color: var(--rose-primary);
-}
-.s22 {
-  width: 20px;
-  height: 20px;
-  top: 58%;
-  left: 55%;
-  animation: star-drift 18s ease-in-out infinite 6s;
-  opacity: 0.08;
-  color: var(--warning);
-}
-.s23 {
-  width: 15px;
-  height: 15px;
-  top: 50%;
-  left: 75%;
-  animation: star-drift 23s ease-in-out infinite 1s;
-  opacity: 0.07;
-  color: var(--success);
-}
-.s24 {
-  width: 42px;
-  height: 42px;
-  top: 62%;
-  left: 92%;
-  animation: star-drift 16s ease-in-out infinite 5s;
-  opacity: 0.14;
-  color: var(--rose-primary);
-}
-.s25 {
-  width: 10px;
-  height: 10px;
-  top: 65%;
-  left: 10%;
-  animation: star-drift 19s ease-in-out infinite 3s;
-  opacity: 0.05;
-  color: var(--info);
-}
-.s26 {
-  width: 28px;
-  height: 28px;
-  top: 68%;
-  left: 30%;
-  animation: star-drift 22s ease-in-out infinite 7s;
-  opacity: 0.1;
-  color: var(--rose-primary);
-}
-.s27 {
-  width: 5px;
-  height: 5px;
-  top: 60%;
-  left: 48%;
-  animation: star-drift 14s ease-in-out infinite 2s;
-  opacity: 0.02;
-  color: var(--warning);
-}
-.s28 {
-  width: 17px;
-  height: 17px;
-  top: 72%;
-  left: 65%;
-  animation: star-drift 20s ease-in-out infinite 4s;
-  opacity: 0.07;
-  color: var(--success);
-}
-.s29 {
-  width: 33px;
-  height: 33px;
-  top: 78%;
-  left: 82%;
-  animation: star-drift 17s ease-in-out infinite 6s;
-  opacity: 0.12;
-  color: var(--rose-primary);
-}
-.s30 {
-  width: 12px;
-  height: 12px;
-  top: 75%;
-  left: 18%;
-  animation: star-drift 24s ease-in-out infinite 1s;
-  opacity: 0.06;
-  color: var(--info);
-}
-.s31 {
-  width: 44px;
-  height: 44px;
-  top: 82%;
-  left: 42%;
-  animation: star-drift 15s ease-in-out infinite 5s;
-  opacity: 0.14;
-  color: var(--warning);
-}
-.s32 {
-  width: 8px;
-  height: 8px;
-  top: 85%;
-  left: 55%;
-  animation: star-drift 21s ease-in-out infinite 3s;
-  opacity: 0.04;
-  color: var(--rose-primary);
-}
-.s33 {
-  width: 21px;
-  height: 21px;
-  top: 80%;
-  left: 70%;
-  animation: star-drift 18s ease-in-out infinite 2s;
-  opacity: 0.09;
-  color: var(--success);
-}
-.s34 {
-  width: 14px;
-  height: 14px;
-  top: 88%;
-  left: 8%;
-  animation: star-drift 23s ease-in-out infinite 6s;
-  opacity: 0.06;
-  color: var(--rose-primary);
-}
-.s35 {
-  width: 30px;
-  height: 30px;
-  top: 92%;
-  left: 30%;
-  animation: star-drift 16s ease-in-out infinite 4s;
-  opacity: 0.11;
-  color: var(--info);
-}
-.s36 {
-  width: 6px;
-  height: 6px;
-  top: 86%;
-  left: 48%;
-  animation: star-drift 19s ease-in-out infinite 1s;
-  opacity: 0.03;
-  color: var(--warning);
-}
-.s37 {
-  width: 25px;
-  height: 25px;
-  top: 95%;
-  left: 60%;
-  animation: star-drift 22s ease-in-out infinite 5s;
-  opacity: 0.1;
-  color: var(--rose-primary);
-}
-.s38 {
-  width: 11px;
-  height: 11px;
-  top: 90%;
-  left: 75%;
-  animation: star-drift 14s ease-in-out infinite 3s;
-  opacity: 0.05;
-  color: var(--success);
-}
-.s39 {
-  width: 36px;
-  height: 36px;
-  top: 96%;
-  left: 88%;
-  animation: star-drift 20s ease-in-out infinite 7s;
-  opacity: 0.13;
-  color: var(--rose-primary);
-}
-.s40 {
-  width: 9px;
-  height: 9px;
-  top: 7%;
-  left: 75%;
-  animation: star-drift 18s ease-in-out infinite 4s;
-  opacity: 0.04;
-  color: var(--info);
-}
-.s41 {
-  width: 19px;
-  height: 19px;
-  top: 22%;
-  left: 46%;
-  animation: star-drift 25s ease-in-out infinite 2s;
-  opacity: 0.08;
-  color: var(--warning);
-}
-.s42 {
-  width: 7px;
-  height: 7px;
-  top: 37%;
-  left: 90%;
-  animation: star-drift 15s ease-in-out infinite 6s;
-  opacity: 0.03;
-  color: var(--rose-primary);
-}
-.s43 {
-  width: 23px;
-  height: 23px;
-  top: 46%;
-  left: 24%;
-  animation: star-drift 21s ease-in-out infinite 1s;
-  opacity: 0.09;
-  color: var(--success);
-}
-.s44 {
-  width: 13px;
-  height: 13px;
-  top: 56%;
-  left: 42%;
-  animation: star-drift 17s ease-in-out infinite 5s;
-  opacity: 0.06;
-  color: var(--info);
-}
-.s45 {
-  width: 31px;
-  height: 31px;
-  top: 70%;
-  left: 52%;
-  animation: star-drift 23s ease-in-out infinite 3s;
-  opacity: 0.11;
-  color: var(--rose-primary);
-}
-.s46 {
-  width: 10px;
-  height: 10px;
-  top: 77%;
-  left: 38%;
-  animation: star-drift 16s ease-in-out infinite 7s;
-  opacity: 0.05;
-  color: var(--warning);
-}
-.s47 {
-  width: 16px;
-  height: 16px;
-  top: 84%;
-  left: 22%;
-  animation: star-drift 19s ease-in-out infinite 2s;
-  opacity: 0.07;
-  color: var(--success);
-}
-.s48 {
-  width: 27px;
-  height: 27px;
-  top: 93%;
-  left: 50%;
-  animation: star-drift 24s ease-in-out infinite 4s;
-  opacity: 0.1;
-  color: var(--rose-primary);
+.floating-shapes .shape {
+  will-change: transform;
 }
 
-.h1 {
-  width: 24px;
-  height: 24px;
-  top: 9%;
-  left: 40%;
-  animation: star-drift 17s ease-in-out infinite 1s;
-  opacity: 0.12;
-  color: var(--rose-primary);
-}
-.h2 {
-  width: 16px;
-  height: 16px;
-  top: 18%;
-  left: 68%;
-  animation: star-drift 21s ease-in-out infinite 3s;
-  opacity: 0.1;
-  color: var(--warning);
-}
-.h3 {
-  width: 30px;
-  height: 30px;
-  top: 33%;
-  left: 8%;
-  animation: star-drift 19s ease-in-out infinite 5s;
-  opacity: 0.12;
-  color: var(--rose-primary);
-}
-.h4 {
-  width: 14px;
-  height: 14px;
-  top: 44%;
-  left: 88%;
-  animation: star-drift 23s ease-in-out infinite 2s;
-  opacity: 0.09;
-  color: var(--info);
-}
-.h5 {
-  width: 20px;
-  height: 20px;
-  top: 58%;
-  left: 33%;
-  animation: star-drift 15s ease-in-out infinite 4s;
-  opacity: 0.11;
-  color: var(--rose-primary);
-}
-.h6 {
-  width: 26px;
-  height: 26px;
-  top: 70%;
-  left: 62%;
-  animation: star-drift 22s ease-in-out infinite 6s;
-  opacity: 0.12;
-  color: var(--success);
-}
-.h7 {
-  width: 12px;
-  height: 12px;
-  top: 82%;
-  left: 25%;
-  animation: star-drift 18s ease-in-out infinite 2s;
-  opacity: 0.08;
-  color: var(--rose-primary);
-}
-.h8 {
-  width: 18px;
-  height: 18px;
-  top: 90%;
-  left: 75%;
-  animation: star-drift 20s ease-in-out infinite 5s;
-  opacity: 0.1;
-  color: var(--warning);
-}
-
-@keyframes star-drift {
+@keyframes float-drift {
   0% {
     transform: translateY(0) rotate(0deg) scale(1);
   }
-
-  20% {
-    transform: translateY(-20px) rotate(72deg) scale(1.1);
+  25% {
+    transform: translateY(-12px) rotate(-3deg) scale(1.05);
   }
-
-  40% {
-    transform: translateY(-8px) rotate(144deg) scale(0.95);
+  50% {
+    transform: translateY(-4px) rotate(2deg) scale(0.98);
   }
-
-  60% {
-    transform: translateY(-25px) rotate(216deg) scale(1.05);
+  75% {
+    transform: translateY(-15px) rotate(-2deg) scale(1.03);
   }
-
-  80% {
-    transform: translateY(-12px) rotate(288deg) scale(0.9);
-  }
-
   100% {
-    transform: translateY(0) rotate(360deg) scale(1);
+    transform: translateY(0) rotate(0deg) scale(1);
   }
 }
 
@@ -1654,7 +817,7 @@ async function handleRegister() {
   border-radius: 50%;
   padding: 3px;
 
-  background: linear-gradient(135deg, #e88aac, #d46a8a, #b84a6a, #e88aac);
+  background: linear-gradient(135deg, #FFC2D7, #FF6BA9, #E02479, #FFC2D7);
 
   background-size: 300% 300%;
   animation: ring-rotate 6s ease-in-out infinite;
@@ -1681,11 +844,11 @@ async function handleRegister() {
     transparent 0deg,
     transparent 48deg,
 
-    #b84a6a 68deg,
-    #e88aac 82deg,
+    #E02479 68deg,
+    #FFC2D7 82deg,
     #ffffff 94deg,
-    #e88aac 106deg,
-    #b84a6a 122deg,
+    #FFC2D7 106deg,
+    #E02479 122deg,
 
     transparent 145deg,
     transparent 360deg
@@ -1711,8 +874,8 @@ async function handleRegister() {
 
   z-index: -1;
 
-  filter: drop-shadow(0 0 3px rgba(232, 138, 172, 0.55))
-    drop-shadow(0 0 9px rgba(232, 138, 172, 0.22));
+  filter: drop-shadow(0 0 3px rgba(255, 194, 215, 0.55))
+    drop-shadow(0 0 9px rgba(255, 194, 215, 0.22));
 
   pointer-events: none;
 }
@@ -1729,7 +892,7 @@ async function handleRegister() {
   background: conic-gradient(
     from 180deg,
     transparent,
-    rgba(232, 138, 172, 0.35),
+    rgba(255, 194, 215, 0.35),
     transparent 30%
   );
 
@@ -1833,8 +996,8 @@ async function handleRegister() {
 
   background: radial-gradient(
     circle,
-    rgba(196, 90, 122, 0.24) 0%,
-    rgba(196, 90, 122, 0.1) 30%,
+    rgba(224, 36, 121, 0.24) 0%,
+    rgba(224, 36, 121, 0.1) 30%,
     transparent 70%
   );
 
@@ -1862,7 +1025,7 @@ async function handleRegister() {
   font-family: "Playfair Display", Georgia, serif;
   font-weight: 700;
 
-  background: linear-gradient(135deg, var(--rose-primary), #d46a8a);
+  background: linear-gradient(135deg, var(--rose-primary), #FF6BA9);
 
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -1883,7 +1046,7 @@ async function handleRegister() {
 
   box-shadow:
     0 1px 3px rgba(0, 0, 0, 0.04),
-    0 4px 24px rgba(196, 90, 122, 0.06),
+    0 4px 24px rgba(224, 36, 121, 0.06),
     0 12px 48px rgba(0, 0, 0, 0.03);
 
   backdrop-filter: blur(12px);
@@ -1938,10 +1101,10 @@ async function handleRegister() {
 .login-card:hover {
   box-shadow:
     0 1px 3px rgba(0, 0, 0, 0.04),
-    0 8px 32px rgba(196, 90, 122, 0.1),
+    0 8px 32px rgba(224, 36, 121, 0.1),
     0 16px 56px rgba(0, 0, 0, 0.04);
 
-  border-color: rgba(196, 90, 122, 0.15);
+  border-color: rgba(224, 36, 121, 0.15);
 }
 
 .dark .login-card {
@@ -1954,7 +1117,7 @@ async function handleRegister() {
 .dark .login-card:hover {
   box-shadow:
     0 1px 3px rgba(0, 0, 0, 0.2),
-    0 8px 32px rgba(232, 138, 172, 0.08),
+    0 8px 32px rgba(255, 194, 215, 0.08),
     0 16px 56px rgba(0, 0, 0, 0.15);
 }
 
@@ -1979,7 +1142,7 @@ async function handleRegister() {
   background: var(--rose-primary);
   color: white;
 
-  box-shadow: 0 2px 10px rgba(196, 90, 122, 0.35);
+  box-shadow: 0 2px 10px rgba(224, 36, 121, 0.35);
 }
 
 .tab-inactive {
@@ -1989,7 +1152,7 @@ async function handleRegister() {
 
 .tab-inactive:hover {
   color: var(--text-secondary);
-  background: rgba(196, 90, 122, 0.05);
+  background: rgba(224, 36, 121, 0.05);
 }
 
 .field {
@@ -2056,7 +1219,7 @@ async function handleRegister() {
 .field-input:focus {
   border-color: var(--rose-primary);
 
-  box-shadow: 0 0 0 3px rgba(196, 90, 122, 0.1);
+  box-shadow: 0 0 0 3px rgba(224, 36, 121, 0.1);
 
   background: var(--bg-card);
 }
@@ -2200,7 +1363,7 @@ async function handleRegister() {
 }
 
 .submit-btn:hover {
-  box-shadow: 0 6px 24px rgba(196, 90, 122, 0.4);
+  box-shadow: 0 6px 24px rgba(224, 36, 121, 0.4);
 
   transform: translateY(-1px);
 }
@@ -2208,7 +1371,7 @@ async function handleRegister() {
 .submit-btn:active {
   transform: translateY(0);
 
-  box-shadow: 0 2px 12px rgba(196, 90, 122, 0.3);
+  box-shadow: 0 2px 12px rgba(224, 36, 121, 0.3);
 }
 
 .submit-btn:disabled {
